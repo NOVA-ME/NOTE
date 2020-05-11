@@ -1,0 +1,2 @@
+# NOTE
+Self study note
