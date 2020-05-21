@@ -7,3 +7,4 @@
 | compatibility | 兼容性    |                                                              |
 | guarantees    | 保证      |                                                              |
 | fundamentally | 从根本上  |                                                              |
+| mention       | 提起/提到 |                                                              |
