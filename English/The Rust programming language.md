@@ -8,3 +8,5 @@
 | guarantees    | 保证      |                                                              |
 | fundamentally | 从根本上  |                                                              |
 | mention       | 提起/提到 |                                                              |
+| involving     | 涉及      | Rust has some interesting rules involving this behavior      |
+| illustrate    | 说明      | Keep these rules in mind as we work through the examples that illustrate them |

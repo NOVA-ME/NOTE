@@ -1,2 +1,3 @@
 # NOTE
-Self study note
+:crab: [Rust](./Rust)
+
