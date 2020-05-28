@@ -96,7 +96,7 @@ fn main(){
       ```rust
       fn main() {
           let tup: (f32, u8, i32) = (3.14, 2, -32);
-          // 通过模式匹配去结构元组（Pattern match, destructure）
+          // 通过模式匹配去解构元组（Pattern match, destructure）
           let (x, y, z) = tup;
           println!("0: {}\n1: {}\n2:{}", tup.0, tup.1, tup.2);
           assert_eq!(y, 2);
